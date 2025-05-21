@@ -1,0 +1,12 @@
+WWWWWWWWWW
+W        W
+W        W
+W       PE
+W        W
+WWWWWWWWWW
+==== DATA ====
+E0 -> first_map,P2
+==== GRAPHICS ====
+wall -> 071
+height -> 1
+floor -> 093

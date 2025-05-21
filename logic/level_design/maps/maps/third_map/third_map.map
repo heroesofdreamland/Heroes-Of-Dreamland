@@ -1,0 +1,17 @@
+WWWWWWEWWWWWWWWWWWWWWWWW
+W     P      W         W
+W            W         W
+W            W         W
+W     W                W
+W     W                W
+W     W                W
+W            W         W
+W            W         W
+W            W         W
+WWWWWWWWWWWWWWWWWWWWWWWW
+==== DATA ====
+E0 -> second_map,P1
+==== GRAPHICS ====
+wall -> 064
+height -> 1
+floor -> 093

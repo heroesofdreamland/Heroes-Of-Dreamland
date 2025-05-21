@@ -1,0 +1,15 @@
+WWWWWWWWWWWWW
+W           W
+W           W
+W           W
+EP          W
+W           W
+W      P    W
+WWWWWWWEWWWWW
+==== DATA ====
+E0 -> first_map,P1
+E1 -> third_map,P0
+==== GRAPHICS ====
+wall -> 039
+height -> 1
+floor -> 040

@@ -1,0 +1,28 @@
+WWWEWWWWWWWWWWWWWWWWWWWWWWWWWW
+W  P            W            W
+W               W            W
+W               W           PE
+W     W         W            W
+W     W         W            W
+W     W         W            W
+EP    WWWWWWWW  W            W
+W            W  W            W
+W            W  W            W
+WWWWWW          WWWWWWW      W
+W    W   W            W      W
+W    W   W            W      W
+W    WWWWWWWWWWW             W
+W              W             W
+W              W             W
+W                            W
+W                            W
+W                            W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+==== DATA ====
+E0 -> lobby,P0
+E1 -> second_map,P0
+E2 -> fifth_map,P0
+==== GRAPHICS ====
+wall -> 063
+height -> 3
+floor -> 093
