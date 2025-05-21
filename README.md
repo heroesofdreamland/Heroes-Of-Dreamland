@@ -1,13 +1,10 @@
 # Heroes of Dreamland
 
 Welcome to **Heroes of Dreamland**, my first open-source game project with an engine entirely built in Python! Create your dream game without bureaucracy, job hunting, or stress—just pure fun and a place where everyone can contribute.
-
-## Project Journey
-It all started small with **Heroes of Dreamland v1.0**.  
-*Video placeholder*
-
-Six months later, I proudly present **Heroes of Dreamland v2.0**!  
-*Video placeholder*
+ 
+<div align="center">
+  <img src="https://github.com/heroesofdreamland/Heroes-Of-Dreamland/blob/main/readme-sources/preview.gif" alt="Demo" width="600"/>
+</div>
 
 ## Current Achievements
 The project has reached significant milestones:
